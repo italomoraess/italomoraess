@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Olá sou Italo Moraes!!</h2>
 
 <!--
 **italomoraess/italomoraess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/italo-moraess/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italomoraess&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomoraess&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
