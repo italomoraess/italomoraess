@@ -1,4 +1,5 @@
-<h2>Olá sou Italo Moraes desenvolvedor backend!!</h2>
+<h2>Olá sou Italo Moraes!!</h2>
+<h4>Desenvolvedor Backend</h4>
 
 <!--
 **italomoraess/italomoraess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
