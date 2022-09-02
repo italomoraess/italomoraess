@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, sou Italo Moraes</h1>
 <h3 align="left">Desenvolvedor Backend</h3>
 
-<h3 align="left">😍 Tecnologia é o que me faz brilhar os olhor</h3>
-<h3 align="left">💻 Apaixonado por telas pretas e linhas de comandos</h3>
-<h3 align="left">👨🏼‍🎓 Estudande da Trybe</h3>
-<h3 align="left">🕵🏼 Curioso por assuntos relacionados a tecnologia</h3>
+<h4 align="left">😍 Tecnologia é o que me faz brilhar os olhor</h3>
+<h4 align="left">💻 Apaixonado por telas pretas e linhas de comandos</h3>
+<h4 align="left">👨🏼‍🎓 Estudande da Trybe</h3>
+<h4 align="left">🕵🏼 Curioso por assuntos relacionados a tecnologia</h3>
 
 <h3 align="left">Conect-se comigo:</h3>
 <p align="left">
