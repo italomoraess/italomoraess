@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, sou Italo Moraes</h1>
+<h1 align="center">Ola 👋, sou Italo Moraes</h1>
 <h3 align="left">Desenvolvedor Backend</h3>
 
 <h4 align="left">😍 Tecnologia é o que me faz brilhar os olhor</h3>
