@@ -6,7 +6,7 @@
 <h4 align="left">👨🏼‍🎓 Estudande da Trybe</h3>
 <h4 align="left">🕵🏼 Curioso por assuntos relacionados a tecnologia</h3>
 
-<h3 align="left">Conect-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <h3>📞 (88)9 9781-3771 </h3>
 <h3>📧 italomoraes.sth@gmail.com </h3>
