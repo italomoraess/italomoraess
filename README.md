@@ -14,9 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" />
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
