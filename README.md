@@ -14,8 +14,18 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" />
+<p align="left">
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
 </p>
 
 
