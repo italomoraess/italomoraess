@@ -14,18 +14,18 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left" target="_blank">
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.heroku.com/" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
 
 
