@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
+<p align="left" style="display=flex">
   <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
   <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
