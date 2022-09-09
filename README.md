@@ -15,17 +15,17 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left" style="display=flex">
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=heroku" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=tsl" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
 
 
