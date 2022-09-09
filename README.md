@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,git,docker,github,heroku,js,ts,linux,mongodb,vscode,mysql" />
 </p>
 
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italomoraess&show_icons=true&theme=radical)
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italomoraess&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomoraess&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
