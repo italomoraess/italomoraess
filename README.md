@@ -13,7 +13,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://api.whatsapp.com/send/?phone=5588997813771&text=Contato+Italo+Moraes&type=phone_number&app_absent=0" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/152/152740.png?w=740&t=st=1664853021~exp=1664853621~hmac=a1192d5bd69c6a1190ca5bcb7b31776fa687ef01464e15f25b87e3252aca7af3" align="center" height="30" width="40" /</a>
-<a href="https://criarmeulink.com.br/u/1664852013"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
+<a href="https://criarmeulink.com.br/u/1664852013" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" align="center" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/italo-moraess" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="italo-moraess" height="30" width="40" /></a>
 </p>
 
