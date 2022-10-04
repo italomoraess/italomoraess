@@ -1,8 +1,8 @@
 <h1 align="center">Ola 👋, sou Italo Moraes</h1>
-<h3 align="left">Desenvolvedor Backend</h3>
 
 -----
 
+<h4 align="left">🤖 Desenvolvedor Backend</h3>
 <h4 align="left">😍 Tecnologia é o que me faz brilhar os olhor</h3>
 <h4 align="left">💻 Apaixonado por telas pretas e linhas de codigo</h3>
 <h4 align="left">👨🏼‍🎓 Estudande da Trybe</h3>
@@ -12,18 +12,18 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://wa.me/5588997813771">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" align="center" height="30" width="40" />
-</a>
-<a href="mailto:italomoraes.sth@gmail.com">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" align="center" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/italo-moraess">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" align="center"  height="30" width="40" />
-</a>
+  <a href="https://wa.me/5588997813771">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" align="center" height="30" width="40" />
+  </a>
+  <a href="mailto:italomoraes.sth@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" align="center" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/italo-moraess">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" align="center"  height="30" width="40" />
+  </a>
 </p>
 
-----
+-----
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
