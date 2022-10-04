@@ -12,7 +12,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://api.whatsapp.com/send/?phone=5588997813771&text=Contato+Italo+Moraes&type=phone_number&app_absent=0">
+<a href="https://wa.me/5588997813771">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" align="center" height="30" width="40" />
 </a>
 <a href="mailto:italomoraes.sth@gmail.com">
