@@ -12,7 +12,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<h3>📧 italomoraes.sth@gmail.com </h3>
+<a href"italomoraes.sth@gmail.com">📧</a>
 <a href="https://linkedin.com/in/italo-moraess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="italo-moraess" height="30" width="40" /></a>
 </p>
 
