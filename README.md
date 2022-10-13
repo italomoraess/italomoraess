@@ -26,6 +26,9 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <!--- https://skillicons.dev -->
+  <a href="https://html.com/" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
