@@ -3,7 +3,7 @@
 <h4 align="left">🤖 Desenvolvedor Fullstack</h3>
 <h4 align="left">😍 Tecnologia é o que me faz brilhar os olhor</h3>
 <h4 align="left">💻 Apaixonado por linhas de codigo</h3>
-<h4 align="left">👨🏼‍🎓 Estudande da Trybe</h3>
+<h4 align="left">👨🏼‍🎓 Estudante da Trybe</h3>
 <h4 align="left">🕵🏼 Curioso por assuntos relacionados a tecnologia</h3>
 
 -----
