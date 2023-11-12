@@ -25,7 +25,6 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <!--- https://skillicons.dev -->
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
