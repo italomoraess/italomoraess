@@ -35,7 +35,3 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
 </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italomoraess&show_icons=true&theme=radical&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomoraess&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
