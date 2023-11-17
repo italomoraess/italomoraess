@@ -1,9 +1,9 @@
 <h1 align="center">Ola 👋, sou Italo Moraes</h1>
 
-<h4 align="left">🤖 Desenvolvedor Fullstack</h3>
-<h4 align="left">😍 Tecnologia é o que me faz brilhar os olhos</h3>
-<h4 align="left">💻 Apaixonado por linhas de código</h3>
-<h4 align="left">🕵🏼 Curioso por assuntos relacionados à tecnologia</h3>
+<h4 align="left">🤖 Desenvolvedor Fullstack!</h3>
+<h4 align="left">😍 Tecnologia é o que me faz brilhar os olhos!</h3>
+<h4 align="left">💻 Apaixonado por linhas de código!</h3>
+<h4 align="left">🕵🏼 Curioso por assuntos relacionados à tecnologia!</h3>
 
 -----
 
