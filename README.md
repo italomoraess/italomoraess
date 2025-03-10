@@ -9,13 +9,13 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://wa.me/5588997813771">
+  <a href="https://wa.me/5588997813771" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" align="center" height="30" width="40" />
   </a>
-  <a href="mailto:italomoraes.sth@gmail.com">
+  <a href="mailto:italomoraes.sth@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" align="center" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/italo-moraess">
+  <a href="https://linkedin.com/in/italo-moraess" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" align="center"  height="30" width="40" />
   </a>
 </p>
